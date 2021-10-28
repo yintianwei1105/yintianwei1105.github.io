@@ -8,7 +8,6 @@ layout: page
 
 Objective: Establish the relationship between customer satisfaction feedback and observed measures of attributes related to network performance.
 
- - Developed a Latent Factor Model that categorized attributes based on their effects on passengers’ satisfaction.
  - Developed a Three Factor Structure Model to illustrate passengers have different expectations to different types of public transport attributes.
  - Matched survey data with smartcard transaction to evaluate how the actual network performance would influence people’s satisfaction and identified the key performance metrics.
  - Presented results at TRANSITDATA2020 in Toronto, helping transit operators to make investment strategies that improve passengers’ satisfaction with public transport. 
@@ -31,7 +30,6 @@ Objective: Explore the travel patterns of infrequent users of public transport
 
 ![title](/image/clusterusers.png)
 Figure 1: Clusters of users based on the frequency of using public transport
-
 
 ![title](/image/travelmode.png)
 Figure 2: The distribution of travel modes of each cluster
