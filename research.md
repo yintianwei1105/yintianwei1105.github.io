@@ -14,6 +14,7 @@ Objective: Establish the relationship between customer satisfaction feedback and
  - Presented results at TRANSITDATA2020 in Toronto, helping transit operators to make investment strategies that improve passengers’ satisfaction with public transport. 
 
 Link to the presentation: https://www.youtube.com/watch?v=4AmQ6SHDylA
+[embed]http://example.com/file.pdf[/embed]
 
 Public transport attributes catagorized by the Latent Factor Model
 ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/LATENT%20FACTOR.png)
@@ -41,10 +42,7 @@ The distribution of travel modes of each cluster
 Comparison of spatial travel patterns for infrequent and frequent public transport users
  ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/spatialtravelpattern.png)
  
- ## Detect the First and Last Mile Travel Modes of Public Transport
-Objective: Look into ways of combining walking, cycling and driving as the first or last leg in a multi-modal pathfinding application.
- - Matched mobile GPS with smart card data to obtain individual travel trajectories that are associated with public transport.
- - Designed a heuristic model to detect the first/last mile travel mode of public transport
 
-Example of bus stops and associated trips from mobile GPS data
- ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/matchedstops.png)
+
+ 
+
