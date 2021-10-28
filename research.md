@@ -8,7 +8,9 @@ layout: page
 
 Objective: Establish the relationship between customer satisfaction feedback and observed measures of attributes related to network performance.
 
- - Applied econometrics models on the survey data and discovered passengers have different expectations to different types of public transport attributes.
+ - Applied econometrics models on the survey data and discovered passengers have different expectations to different types of public transport attributes. 
  - Matched survey data with smartcard transaction to evaluate how the actual network performance would influence people’s satisfaction and identified the key performance metrics.
  - Presented results in an international conference in Toronto, helping transit operators to make investment strategies that improve passengers’ satisfaction with public transport. 
  - Link to the presentation: https://www.youtube.com/watch?v=4AmQ6SHDylA
+ ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/LATENT%20FACTOR.png)
+ ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/sat_result.png)
