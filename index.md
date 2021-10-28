@@ -3,8 +3,6 @@ title: "Home"
 layout: page
 ---
 
-# Tianwei Yin
-
 I am a PhD candidate at the University of Melbourne with 3 years' research experience in spatial data analysis, with a specific interest in the innovation of data-driven methods   to model, design and manage public transport.
 
 I am skilled in machine learning, data visualization, and behavior modelling with Python and R. I have completed several [projects](https://yintianwei1105.github.io/Projects/)     with University of Queensland, CSIRO Data61, and state governments in Australia. 
