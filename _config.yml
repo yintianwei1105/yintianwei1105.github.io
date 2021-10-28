@@ -19,9 +19,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: Projects}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Linkedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
-  - {title: Instagram, url: "https://www.instagram.com/tianwei_yin/"}
-
+  - {title: Linkedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/", icon: linkedin-in}
+  - {title: Instagram, url: "https://www.instagram.com/tianwei_yin/", icon: instagram}
+  - {title: Mail, url: "tiyin@student.unimelb.edu.au", icon: envelope}
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
