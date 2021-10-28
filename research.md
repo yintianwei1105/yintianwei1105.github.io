@@ -13,7 +13,7 @@ Objective: Establish the relationship between customer satisfaction feedback and
  - Matched survey data with smartcard transaction to evaluate how the actual network performance would influence people’s satisfaction and identified the key performance metrics.
  - Presented results at TRANSITDATA2020 in Toronto, helping transit operators to make investment strategies that improve passengers’ satisfaction with public transport. 
 
-Link to the presentation: https://www.youtube.com/watch?v=4AmQ6SHDylA
+[Link to the presentation](https://www.youtube.com/watch?v=4AmQ6SHDylA)
 
 Public transport attributes catagorized by the Latent Factor Model
 ![image](image/LATENT%20FACTOR.png)
