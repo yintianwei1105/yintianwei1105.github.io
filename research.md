@@ -16,13 +16,13 @@ Objective: Establish the relationship between customer satisfaction feedback and
 [Link to the presentation](https://www.youtube.com/watch?v=4AmQ6SHDylA)
 
 Public transport attributes catagorized by the Latent Factor Model
-![image](image/LATENT%20FACTOR.png)
+![screenshot](image/LATENT%20FACTOR.png)
  
 Marginal improments of objective service performance
-![image](image/sat_result.png)
+![screenshot](image/sat_result.png)
 
 Public transport attributes catagorized by the passengers' expectations, derived from the Three Factor Structure Model
-![image](image/threefactor.png)
+![screenshot](image/threefactor.png)
 
 ## Exploring Infrequent Use of Public Transport in Brisbane
 
@@ -33,13 +33,13 @@ Objective: Explore the travel patterns of infrequent users of public transport
  - Presented results at TRANSITDATA2019 conference in Paris, helping in transit operators to develop demand responsive services for infrequent public transport users
 
 Clusters of users based on the frequency of using public transport
- ![image](image/cluster%20users.png)
+![screenshot](image/cluster%20users.png)
  
 The distribution of travel modes of each cluster
- ![image](image/travelmode.png)
+![screenshot](image/travelmode.png)
  
 Comparison of spatial travel patterns for infrequent and frequent public transport users
- ![image](image/spatialtravelpattern.png)
+![screenshot](image/spatialtravelpattern.png)
  
 
 
