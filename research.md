@@ -15,9 +15,11 @@ Objective: Establish the relationship between customer satisfaction feedback and
 
 [Link to the presentation](https://www.youtube.com/watch?v=4AmQ6SHDylA)
 
-Marginal improments of objective service performance ![screenshot](image/sat_result.png)
+![screenshot](image/sat_result.png)
+Figure 1: Marginal improments of objective service performance 
 
-Public transport attributes catagorized by the passengers' expectations, derived from the Three Factor Structure Model ![screenshot](image/threefactor.png)
+![screenshot](image/threefactor.png)
+Figure 2: Public transport attributes catagorized by the passengers' expectations, derived from the Three Factor Structure Model 
 
 ## Exploring Infrequent Use of Public Transport in Brisbane
 
