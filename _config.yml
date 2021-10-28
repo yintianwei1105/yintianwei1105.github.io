@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "tiyin@student.unimelb.edu.au"}
-  - {title: Likedln, icon: likedln, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
+  - {title: Likedln, icon: likedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
 
 
 comments:
