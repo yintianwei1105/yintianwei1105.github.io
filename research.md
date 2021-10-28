@@ -38,5 +38,5 @@ Clusters of users based on the frequency of using public transport
 The distribution of travel modes of each cluster
  ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/travelmode.png)
  
-Example of spatial travel patterns for infrequent public transport users
+Comparison of spatial travel patterns for infrequent and frequent public transport users
  ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/spatialtravelpattern.png)
