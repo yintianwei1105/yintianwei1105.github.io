@@ -10,5 +10,5 @@ I am skilled in machine learning, data visualization, and behavior modelling wit
 I am currently working on a project in collaboration with the Victoria Department of Transport.
 [Link to this project](https://imoveaustralia.com/project/melbourne-tram-load-estimation-and-real-time-load-prediction/)
 
-I also enjoy cooking, travelling and movie editing.
+I also enjoy cooking, travelling and video editing.
 
