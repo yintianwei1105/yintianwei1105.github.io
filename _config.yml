@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
 
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "tiyin@student.unimelb.edu.au"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
+  - {title: Linkedin, icon: <i class="fab fa-linkedin"></i>, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
 
 
 comments:
