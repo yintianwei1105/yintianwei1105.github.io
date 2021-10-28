@@ -20,8 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: Personal}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, url: "tiyin@student.unimelb.edu.au"}
-  - {title: Linkedin, icon: <i class="fab fa-linkedin-in"></i>, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
+  - {title: Linkedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/"}
 
 
 comments:
