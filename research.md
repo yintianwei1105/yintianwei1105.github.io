@@ -33,13 +33,13 @@ Objective: Explore the travel patterns of infrequent users of public transport
  - Presented results at TRANSITDATA2019 conference in Paris, helping in transit operators to develop demand responsive services for infrequent public transport users
 
 Clusters of users based on the frequency of using public transport
- ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/cluster%20users.png)
+ ![image](image/cluster%20users.png)
  
 The distribution of travel modes of each cluster
- ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/travelmode.png)
+ ![image](image/travelmode.png)
  
 Comparison of spatial travel patterns for infrequent and frequent public transport users
- ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/spatialtravelpattern.png)
+ ![image](image/spatialtravelpattern.png)
  
 
 
