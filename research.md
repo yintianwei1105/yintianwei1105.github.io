@@ -14,9 +14,6 @@ Objective: Establish the relationship between customer satisfaction feedback and
  - Presented results at TRANSITDATA2020 in Toronto, helping transit operators to make investment strategies that improve passengers’ satisfaction with public transport. 
 
 [Link to the presentation](https://www.youtube.com/watch?v=4AmQ6SHDylA)
-
-Public transport attributes catagorized by the Latent Factor Model
-![screenshot](image/LATENT%20FACTOR.png)
  
 Marginal improments of objective service performance
 ![screenshot](image/sat_result.png)
