@@ -15,10 +15,10 @@ Objective: Establish the relationship between customer satisfaction feedback and
 
 [Link to the presentation](https://www.youtube.com/watch?v=4AmQ6SHDylA)
 
-![screenshot](image/sat_result.png)
+![title](/image/sat_result.png)
 Figure 1: Marginal improments of objective service performance 
 
-![screenshot](image/threefactor.png)
+![title](/image/threefactor.png)
 Figure 2: Public transport attributes catagorized by the passengers' expectations, derived from the Three Factor Structure Model 
 
 ## Exploring Infrequent Use of Public Transport in Brisbane
@@ -29,14 +29,14 @@ Objective: Explore the travel patterns of infrequent users of public transport
  - Clustered public transport users based on regularity and visualized the travel time and locations of infrequent public transport users.
  - Presented results at TRANSITDATA2019 conference in Paris, helping in transit operators to develop demand responsive services for infrequent public transport users
 
-![screenshot](image/clusterusers.png)
+![title](/image/clusterusers.png)
 Figure 1: Clusters of users based on the frequency of using public transport
 
 
-![screenshot](image/travelmode.png)
+![title](/image/travelmode.png)
 Figure 2: The distribution of travel modes of each cluster
 
-![screenshot](image/spatialtravelpattern.png)
+![title](/image/spatialtravelpattern.png)
 Figure 3: Comparison of spatial travel patterns for infrequent and frequent public transport users
 
 
