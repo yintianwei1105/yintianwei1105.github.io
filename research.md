@@ -24,7 +24,7 @@ Marginal improments of objective service performance
 Public transport attributes catagorized by the passengers' expectations, derived from the Three Factor Structure Model
 ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/threefactor.png)
 
-## Exploring infrequent use of public transport in Brisbane
+## Exploring Infrequent Use of Public Transport in Brisbane
 
 Objective: Explore the travel patterns of infrequent users of public transport
 
@@ -40,3 +40,11 @@ The distribution of travel modes of each cluster
  
 Comparison of spatial travel patterns for infrequent and frequent public transport users
  ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/spatialtravelpattern.png)
+ 
+ ## Detect the First and Last Mile Travel Modes of Public Transport
+Objective: Look into ways of combining walking, cycling and driving as the first or last leg in a multi-modal pathfinding application.
+ - Matched mobile GPS with smart card data to obtain individual travel trajectories that are associated with public transport.
+ - Designed a heuristic model to detect the first/last mile travel mode of public transport
+
+Example of bus stops and associated trips from mobile GPS data
+ ![image](https://github.com/yintianwei1105/yintianwei1105.github.io/blob/master/image/matchedstops.png)
