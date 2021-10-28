@@ -30,7 +30,7 @@ Objective: Explore the travel patterns of infrequent users of public transport
  - Presented results at TRANSITDATA2019 conference in Paris, helping in transit operators to develop demand responsive services for infrequent public transport users
 
 
-![screenshot](image/cluster%20users.png)
+![screenshot](image/clusterusers.png)
 Figure 1: Clusters of users based on the frequency of using public transport
 
 
