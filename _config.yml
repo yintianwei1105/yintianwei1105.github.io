@@ -22,7 +22,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, url: "https://www.linkedin.com/in/tianwei-yin-b057a7169/", icon: linkedin-in}
-  - {title: Instagram, url: "https://www.instagram.com/tianwei_yin/", icon: instagram}
   - {title: Mail, url: "mailto:tiyin@student.unimelb.edu.au", icon: envelope}
   
 comments:
